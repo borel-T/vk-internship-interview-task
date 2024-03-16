@@ -2,6 +2,8 @@
 
 VK Internship Interview Test Application
 
+VK MINI APP : [my VK Mini App](https://vk.com/app51878174_800999390)
+
 ## How to run app locally
 
 **To run this application locally**, follow these steps:

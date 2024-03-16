@@ -1,7 +1,7 @@
 import "./App.css";
 import React from "react";
-import CatFact from "./components/catfact";
-import AgeGenerator from "./components/ageGenerator";
+import CatFact from "./pages/catfact";
+import AgeGenerator from "./pages/ageGenerator";
 import {
   View,
   Panel,
