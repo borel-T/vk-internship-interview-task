@@ -2,7 +2,7 @@
 
 VK Internship Interview Test Application
 
-VK MINI APP : [my VK Mini App](https://vk.com/app51878174_800999390)
+**Мое мини-приложение ВКОНТАКТЕ** : [My VK Mini App](https://vk.com/app51878174_800999390)
 
 ## How to run app locally
 
@@ -16,6 +16,10 @@ VK MINI APP : [my VK Mini App](https://vk.com/app51878174_800999390)
 
 ### `npm start`
 
+3. Then open the running application on your browser
+
+### `http://localhost:3000/`
+
 ## VK Deployment
 
 This is app was deployed as a VK mini hosted application
@@ -25,6 +29,6 @@ In order to deploy a new vesrion
 
 ### `npm run build`
 
-2. Secondly, deploy the build to vk, by running the command :
+2. Secondly, deploy the build to VK, by running the command :
 
 ### `npm run deploy`
