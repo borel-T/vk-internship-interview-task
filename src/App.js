@@ -23,7 +23,7 @@ function App() {
     <View activePanel={activePanel}>
       {/* Default view */}
       <Panel id="panel1">
-        <PanelHeader>More</PanelHeader>
+        <PanelHeader>VK Mini APP by Borel T.G</PanelHeader>
         <Group>
           <Cell
             expandable="auto"
@@ -47,7 +47,7 @@ function App() {
           delimiter="spacing"
           before={<PanelHeaderBack onClick={() => setActivePanel("panel1")} />}
         >
-          Cats Fact
+          Cats Facts
         </PanelHeader>
         <CatFact />
       </Panel>
@@ -56,7 +56,7 @@ function App() {
         <PanelHeader
           before={<PanelHeaderBack onClick={() => setActivePanel("panel1")} />}
         >
-          Age-Generator
+          Age Generator
         </PanelHeader>
         <AgeGenerator />
       </Panel>
