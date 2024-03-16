@@ -1,34 +1,12 @@
-.vk-app {
-  text-align: center;
+.form-wrap {
+  width: 80%;
+  margin: 0 auto;
+  background-color: #dcf5f7;
   padding: 15px;
-}
-
-.catfact {
-  padding: 30px;
-  border-radius: 5px;
-  background-color: #f1f1f1;
-  display: flex;
-  flex-direction: column;
-}
-.my-button {
   text-align: center;
-  background-color: aquamarine;
-  padding: 10px;
-  margin-top: 15px;
-  cursor: pointer;
-}
-.my-text-input {
-  padding: 5px;
 }
 
-.age-generator-section {
-  margin-top: 30px;
-  padding: 30px;
-  border-radius: 5px;
-  background-color: #f1f1f1;
-}
-
-.form {
-  display: flex;
-  flex-direction: column;
+.form-error {
+  font-size: 14px;
+  color: rgb(211, 57, 57);
 }
